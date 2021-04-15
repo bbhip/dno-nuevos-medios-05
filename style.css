@@ -1,12 +1,12 @@
 @charset "UTF-8";
 
 html{
-        background: linear-gradient(135deg, rgba(240, 170, 140, .9), rgba(150, 100, 75, .9)), url('images/camion.jpg') right bottom no-repeat fixed;
+        background: linear-gradient(135deg, rgb(174, 184, 254), rgb(117, 139, 253)), url('images/camion.jpg') right bottom no-repeat fixed;
         min-height: 100%;
 }
 
 body {
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: 'Orelega One', cursive;
     font-size: 100%;
     margin: 0;
     padding: 0;

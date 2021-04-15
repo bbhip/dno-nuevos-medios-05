@@ -45,8 +45,8 @@ Papa.parse("https://raw.githubusercontent.com/bbhip/dno-nuevos-medios-05/main/in
                         datasets: [
                             {
                                 data: indice,
-                                backgroundColor: "rgba(0, 0, 0, .1)",
-                                borderColor: "rgba(0, 0, 0, .5)",
+                                backgroundColor: "rgba(185, 207, 212, .5)",
+                                borderColor: "rgb(54, 73, 78)",
                                 pointRadius: 2,
                                 borderWidth: 1,
                                 lineTension: 0,
